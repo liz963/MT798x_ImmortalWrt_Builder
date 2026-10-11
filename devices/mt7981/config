@@ -16,7 +16,7 @@
 CONFIG_TARGET_MULTI_PROFILE=y
 CONFIG_TARGET_PER_DEVICE_ROOTFS=y
 
-CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_cudy_tr3000-v1=y
+CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_cudy_tr3000-256mb-v1=y
 
 CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_jcg_q30-pro=y
 CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_konka_komi-a31=y
